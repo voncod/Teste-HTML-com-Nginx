@@ -6,8 +6,7 @@ uma página HTML simples.
 
 ---
 
-
-## 📁 Objetivo
+## Objetivo
 
 - Entender como funciona um servidor web básico (Nginx)
 - Testar o funcionamento local no Ubuntu (via WSL2)
@@ -16,7 +15,7 @@ uma página HTML simples.
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - Ubuntu (WSL2)
 - Nginx
@@ -25,7 +24,7 @@ uma página HTML simples.
 
 ---
 
-## 📄 Como executar
+## Como executar
 
 1. Clone este repositório:
 
